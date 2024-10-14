@@ -9,6 +9,8 @@
 [![My Skills](https://skillicons.dev/icons?i=git,github,vscode,postman)](https://skillicons.dev)<br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=implObserver&layout=compact&theme=github_dark_dimmed)<br>
 ![](https://komarev.com/ghpvc/?username=implObserver)
+### OS:
+[![My Skills](https://skillicons.dev/icons?i=ubuntu)](https://skillicons.dev)
 <!--
 **implObserver/implObserver** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
