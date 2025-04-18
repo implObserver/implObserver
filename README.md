@@ -3,7 +3,7 @@
 ### Languages:
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts)](https://skillicons.dev)
 ### Frontend:
-[![My Skills](https://skillicons.dev/icons?i=react,redux)](https://skillicons.dev) &#8203; ![mobx](https://github.com/user-attachments/assets/09d0fff7-3c29-4bd5-a299-c9b6a2d00c75)
+[![My Skills](https://skillicons.dev/icons?i=react,redux,nextjs,tailwindcss)](https://skillicons.dev) &#8203; ![mobx](https://github.com/user-attachments/assets/09d0fff7-3c29-4bd5-a299-c9b6a2d00c75)
 ### Backend:
 [![My Skills](https://skillicons.dev/icons?i=nodejs,express,mongodb,postgresql,prisma)](https://skillicons.dev)
 ### Software:
