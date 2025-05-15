@@ -1,3 +1,8 @@
+[![Portfolio](https://img.shields.io/badge/🚀_Портфолио-FF5733?style=flat)](https://myportfoliodesignyes.netlify.app/)
+[![Resume](https://img.shields.io/badge/📄_Резюме-0088CC?style=flat)](https://tyumen.hh.ru/resume/65f1a5bfff05938fc90039ed1f645a52463068)
+[![Telegram](https://img.shields.io/badge/-Telegram/@observerus-26A5E4?style=flat&logo=telegram&logoColor=white)](https://t.me/observerus)
+[![✉️ Gmail](https://img.shields.io/badge/Gmail/sitnikov1vs@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:sitnikov1vs@gmail.com)
+
 ### OS:
 [![My Skills](https://skillicons.dev/icons?i=ubuntu)](https://skillicons.dev)
 ### Languages:
